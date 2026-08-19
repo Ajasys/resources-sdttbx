@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Ajasys.github.io/resources-sdttbx/sitemap.xml
